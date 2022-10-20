@@ -59,30 +59,15 @@ Berikut ini adalah cara menggunakan python:
 <img width="173" alt="bp 5 1" src="https://user-images.githubusercontent.com/115815582/196975294-b8ba04a4-21c7-4d29-a56f-cd278d329a8e.png">
 
 2. Lalu tuliskan kode-kode seperti contoh berikut
-
-#input nilai variabel
-
-a = input("masukan nilai pertama: ")
-
-b = input("masukan nilai kedua: ")
-
-#cetak nilai variabel
-
-print("Variabel a = ", a)
-
-print("Variabel b = ", b)
-
-#cetak hasil kedua operasi variabel dengan string dan format
-
-print("Hasil penggabungan {1} & {0} = ".format(a,b) + str(a)+sar(b))
-
-#konversi nilai variabel
-
-a = int(a);
-
-b = int(b);
-
-print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
-
-print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 <img width="798" alt="bp 5 2" src="https://user-images.githubusercontent.com/115815582/196976151-f72a67b9-ac0a-434b-9188-5c50eb81e85c.png">
+
+3. Lalu klik tombol Run untuk menjalankan yang berada di pojok kanan atas, seperti gambar berikut
+<img width="798" alt="bp 5 3" src="https://user-images.githubusercontent.com/115815582/197000697-de2e64f6-deea-4917-8f52-b933a09b8bb7.png">
+
+4. Maka akan muncul hasil program yang dijalankan, seperti gambar berikut. Dan jangan lupa untuk memasukan angka
+<img width="960" alt="bp 5" src="https://user-images.githubusercontent.com/115815582/197000939-fa8437b1-4294-425a-bee9-7b6db7b79dc1.png">
+
+
+Jadi seperti itulah cara penggunaan python, mohon maaf jika ada kesalahan
+
+Terimakasih
